@@ -1,4 +1,4 @@
 ASR4
 ==============
 
-Seconde partie du module ASR4 durant le S3.
+Seconde partie du module ASR4 durant le S4.
